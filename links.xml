@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pages>
+  <link>
+    <title>Dell i5 inspiron</title>
+    <url>http://localhost/ecommerce/Electronic.php</url>
+  </link>
+  <link>
+    <title>LG Refridgerator</title>
+    <url>http://localhost/ecommerce/Electronic.php</url>
+  </link>
+  <link>
+    <title>Dairy Milk Celebrations</title>
+    <url>http://localhost/ecommerce/Electronic.php</url>
+  </link>
+  <link>
+    <title>Apple Iphone X</title>
+    <url>http://localhost/ecommerce/Electronic.php</url>
+  </link>
+  <link>
+    <title>Teddy Bear</title>
+    <url>http://localhost/ecommerce/Electronic.php</url>
+  </link>
+  <link>
+    <title>Samsung LED TV</title>
+    <url>http://localhost/ecommerce/Electronic.php</url>
+  </link>
+</pages>
